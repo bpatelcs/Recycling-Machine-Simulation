@@ -1,0 +1,1 @@
+Simulated the real world scenario of Recycling System using the Recycling Machine and Recycling Monitoring Machine.Designed the system using object oriented concepts such as Inheritance, abstraction,interface.We developed the whole system using java(Thread, Swing).
